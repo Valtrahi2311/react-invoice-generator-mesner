@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-invoice-generator-mesner/static/css/main.197a47ab.chunk.css",
-    "main.js": "/react-invoice-generator-mesner/static/js/main.262eaf6e.chunk.js",
-    "main.js.map": "/react-invoice-generator-mesner/static/js/main.262eaf6e.chunk.js.map",
+    "main.js": "/react-invoice-generator-mesner/static/js/main.6038c0f6.chunk.js",
+    "main.js.map": "/react-invoice-generator-mesner/static/js/main.6038c0f6.chunk.js.map",
     "runtime-main.js": "/react-invoice-generator-mesner/static/js/runtime-main.854d41f0.js",
     "runtime-main.js.map": "/react-invoice-generator-mesner/static/js/runtime-main.854d41f0.js.map",
     "static/css/2.ea80278b.chunk.css": "/react-invoice-generator-mesner/static/css/2.ea80278b.chunk.css",
     "static/js/2.c7a4b7da.chunk.js": "/react-invoice-generator-mesner/static/js/2.c7a4b7da.chunk.js",
     "static/js/2.c7a4b7da.chunk.js.map": "/react-invoice-generator-mesner/static/js/2.c7a4b7da.chunk.js.map",
     "index.html": "/react-invoice-generator-mesner/index.html",
-    "precache-manifest.83326dcefab1ff1fcb5af37fbd3e89d9.js": "/react-invoice-generator-mesner/precache-manifest.83326dcefab1ff1fcb5af37fbd3e89d9.js",
+    "precache-manifest.0c7e3bbe8e34bb15d641a0276db05111.js": "/react-invoice-generator-mesner/precache-manifest.0c7e3bbe8e34bb15d641a0276db05111.js",
     "service-worker.js": "/react-invoice-generator-mesner/service-worker.js",
     "static/css/2.ea80278b.chunk.css.map": "/react-invoice-generator-mesner/static/css/2.ea80278b.chunk.css.map",
     "static/css/main.197a47ab.chunk.css.map": "/react-invoice-generator-mesner/static/css/main.197a47ab.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.ea80278b.chunk.css",
     "static/js/2.c7a4b7da.chunk.js",
     "static/css/main.197a47ab.chunk.css",
-    "static/js/main.262eaf6e.chunk.js"
+    "static/js/main.6038c0f6.chunk.js"
   ]
 }
